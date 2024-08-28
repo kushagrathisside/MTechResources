@@ -1,2 +1,2 @@
 # MTechResources
-First Semester Resources
+Repository to manage First Semester Resources
