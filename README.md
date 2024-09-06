@@ -9,6 +9,9 @@ Repository to manage First Semester Resources
 2. Single Column Long - https://www.overleaf.com/latex/templates/resume-public/hmhyxvxfspsw
 3. Double Column - https://www.overleaf.com/articles/pratiksha-jains-cv/tvfhswmxphwd
 
+## TA Duty Schedules
+Note: Please add values (Roll Numbers) separated by commas in the slots. The slot with minimum TA duties can be checked for additional requirements.
+
 <table>
  <tr>
   <th>TA DUTIES</th>
