@@ -24,7 +24,7 @@ Repository to manage First Semester Resources
   <td></td>
   <td></td>
   <td></td>
-  <td></td>
+  <td>PMR2024003 and MRH2024009</td>
  </tr>
  <tr>
   <td>Tuesday</td>
