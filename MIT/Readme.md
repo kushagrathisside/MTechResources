@@ -1,4 +1,4 @@
-#Add Details about MIT and resources attached.
+# Add Details about MIT and resources attached.
 
 Books:
-- asd
+- Introduction to Probability - Dmriti Berksekas (https://www.youtube.com/playlist?list=PLUl4u3cNGP61MdtwGTqZA0MreSaDybji8)
